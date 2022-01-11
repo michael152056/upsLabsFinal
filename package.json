@@ -2,7 +2,8 @@
   "name": "ups-labs",
   "version": "0.0.0",
   "engines": {
-    "node": "v14.18.1"
+    "node": "v14.18.1",
+    "npm": "8.1.0"
   },
   "scripts": {
     "ng": "ng",
